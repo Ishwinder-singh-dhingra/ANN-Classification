@@ -9,3 +9,4 @@ streamlit
 scikit-learn
 tensorflow
 tensorboard
+python=3.11
